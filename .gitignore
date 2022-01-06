@@ -1,0 +1,11 @@
+
+# dependencies
+/node_modules
+/data
+/build
+.vscode/
+*.log
+*.sh
+
+package-lock.json
+.editorconfig
