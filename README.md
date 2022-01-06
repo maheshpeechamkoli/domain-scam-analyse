@@ -1,7 +1,5 @@
-# domain-scam-finder
+# DOMAIN SCAM ANALYSE
 This project is for finding the scam domains
-
-DOMAIN SCAM ANALYSE
 
 Rest API with Nodejs, Express, PostgreSQL, TypeOrm, and TypeScript
 
