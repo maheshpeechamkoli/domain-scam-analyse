@@ -9,7 +9,7 @@ Setup and Install Nodejs, PostgreSQL and Create a database.
 
 1. git clone https://github.com/maheshpeechamkoli/domain-scam-analyse.git
 
-2. cd domain-scam-finder
+2. cd domain-scam-analyse
 
 3. npm run install
 
